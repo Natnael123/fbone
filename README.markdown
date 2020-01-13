@@ -107,3 +107,4 @@ Many thanks to Python, Flask and other good stacks.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/imwilsonxu/fbone/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Run on Repl.it](https://repl.it/badge/github/imwilsonxu/fbone)](https://repl.it/github/imwilsonxu/fbone)
